@@ -1,4 +1,4 @@
-# Repositório para projeto da cadeira de sistemas embarcados
+# Repositório para projeto da cadeira de Sistemas Embarcados
 # Professor: Dr. ALEXANDRE SALES VASCONCELOS
 
 
